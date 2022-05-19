@@ -6,11 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="happydb-test" />
+        <module name="happydb-core" />
         <module name="happydb" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="happydb" target="1.8" />
+      <module name="happydb-core" target="1.8" />
+      <module name="happydb-test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

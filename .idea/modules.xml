@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/happydb.iml" filepath="$PROJECT_DIR$/happydb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/happydb-core/happydb-core.iml" filepath="$PROJECT_DIR$/happydb-core/happydb-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/happydb-test/happydb-test.iml" filepath="$PROJECT_DIR$/happydb-test/happydb-test.iml" />
     </modules>
   </component>
 </project>
